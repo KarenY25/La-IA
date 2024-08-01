@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(135deg, #b16cc8 0, #9a5ec5 16.67%, #7f50c2 33.33%, #5b43bf 50%, #1d39bc 66.67%, #0031ba 83.33%, #002db7 100%);
+}
+
+.menu{
+  background-image: linear-gradient(80deg, #db57c2 0, #c246bc 25%, #a430b3 50%, #841baa 75%, #640da5 100%);
+  margin: 5px;
+  overflow: none;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu ul li{
+  
+}
+
+.menu ul li a{
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.principle {
+ background-image: url("/assets/option2wall.webp");
+ margin: 0;
+ padding: .1%;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+
+#nombre{
+  font-family: "Kalnia Glaze", serif;
+  font-style: bold;
+  text-align: center;
+  font-size: 400%;
+}
+
+.caja{
+  color: white;
+  text-align: justify;
+  margin: 5%;
+  background-color: #172a7f82;
+}
+
+
+#historia{
+  margin: 5%;
+  color: white;
+  text-align: justify;
+}
+
+.main {
+  display: flex;
+  margin: 5%;
+  color: white;
+  
+}
+
+.debil {
+  width: 500px;
+  padding: 10px;
+  margin-right: 200px;
+}
+
+.fuerte {
+  width: 600px;
+  padding: 10px;
+}
+
+
+#tipos{
+  margin: 5%;
+  color: white;
+  text-align: justify;
+
+}
+
+#tu{
+  margin: 5%;
+  color: white;
+  text-align: justify;
+
+}
+
+.historia {
+  background-image: linear-gradient(80deg, #db57c2 0, #c246bc 25%, #a430b3 50%, #841baa 75%, #640da5 100%);
+  width: 20%;
+  border-radius: 10%;
+  padding: .6%;
+}
+
+.tipos {
+  background-image: linear-gradient(80deg, #db57c2 0, #c246bc 25%, #a430b3 50%, #841baa 75%, #640da5 100%);
+  width: 20%;
+  border-radius: 10%;
+  padding: .6%;
+}
+
+.tu {
+  background-image: linear-gradient(80deg, #db57c2 0, #c246bc 25%, #a430b3 50%, #841baa 75%, #640da5 100%);
+  width: 25%;
+  border-radius: 10%;
+  padding: .6%;
+}
+
+#volver{
+  margin: 5%;
+  text-align: justify;
+}
+
+#volver a{
+  color: #b16cc8;
+  font-size: 150%;
+}
+
+.contenedor {
+  margin: 5%;
+  color: white;
+  display: flex;
+ 
+}
+
+.form {
+  width: 600px;
+}
+
+.imagen {
+  width: 400px;
+}
+
+
+  
+  
